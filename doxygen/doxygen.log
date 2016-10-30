@@ -1,0 +1,36 @@
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Node.cpp:134: warning: argument 'the' of command @param is not found in the argument list of Node::Node(const Node &given)
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Node.h:20: warning: The following parameters of Node::Node(const Node &given) are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Node.cpp:143: warning: argument 'the' of command @param is not found in the argument list of Node::operator=(const Node &given)
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Node.h:21: warning: The following parameters of Node::operator=(const Node &given) are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Stack.cpp:144: warning: unexpected token in comment block while parsing the argument of command param
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Table_stream.cpp:117: warning: argument 'string' of command @param is not found in the argument list of Table::Table(string result, const char *to=NULL)
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Table.h:25: warning: The following parameters of Table::Table(string result, const char *to=NULL) are not documented:
+  parameter 'result'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Tree.h:19: warning: The following parameters of Tree::Tree(char *given) are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Tree.cpp:624: warning: argument 'decompress_length' of command @param is not found in the argument list of Tree::decompress_decimal_message(const short unsigned int *const given, const unsigned long long int &expected_bool_arr_length, const unsigned long long int &given_int_arr_length, const unsigned long long int &decompressed_length, const char *decompress_to) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Tree.h:43: warning: The following parameters of Tree::decompress_decimal_message(const short unsigned int *const given, const unsigned long long int &expected_bool_arr_length, const unsigned long long int &given_int_arr_length, const unsigned long long int &decompressed_length, const char *decompress_to) const are not documented:
+  parameter 'decompressed_length'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Tree.cpp:573: warning: argument 'pseudonym' of command @param is not found in the argument list of Tree::decompress_letter(const bool *&position) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Tree.h:41: warning: The following parameters of Tree::decompress_letter(const bool *&position) const are not documented:
+  parameter 'position'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:22: warning: argument 'second' of command @param is not found in the argument list of Vertex::operator<(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:58: warning: The following parameters of Vertex::operator<(const Vertex &given) const are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:31: warning: argument 'second' of command @param is not found in the argument list of Vertex::operator<=(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:59: warning: The following parameters of Vertex::operator<=(const Vertex &given) const are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:40: warning: argument 'second' of command @param is not found in the argument list of Vertex::operator==(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:55: warning: The following parameters of Vertex::operator==(const Vertex &given) const are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:4: warning: argument 'second' of command @param is not found in the argument list of Vertex::operator>(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:56: warning: The following parameters of Vertex::operator>(const Vertex &given) const are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:13: warning: argument 'second' of command @param is not found in the argument list of Vertex::operator>=(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:57: warning: The following parameters of Vertex::operator>=(const Vertex &given) const are not documented:
+  parameter 'given'
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.cpp:49: warning: argument 'second' of command @param is not found in the argument list of Vertex::special_comparison(const Vertex &given) const
+C:/Users/nooby/Desktop/from_moodle/hufman/Huffman SDP_project/Huffman algorithm/Vertex.h:60: warning: The following parameters of Vertex::special_comparison(const Vertex &given) const are not documented:
+  parameter 'given'
